@@ -1,11 +1,11 @@
-class Logger():
+class LoggingService():
 
     @staticmethod
     def print(msg):
         """ Helper function to print messages to console """
-        print(msg)
+        print("MESSAGE: " + msg)
  
     @staticmethod
-    def log(msg):
+    def log(error):
         """ Print errors """
-        print(e)
+        print("ERROR :" + error)

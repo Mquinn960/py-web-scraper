@@ -1,12 +1,12 @@
 from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
-from logger import Logger
+from services.logging_service import LoggingService
 
 class Scraper():
 
     def __init__(self):
-        self.logger = Logger
+        self.logger = LoggingService
 
     @staticmethod
     def get_from_url(self, url):
