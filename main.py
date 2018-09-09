@@ -3,13 +3,14 @@ from services.destination_service import DestinationService
 from services.file_helper_service import FileHelper
 from scraping.url_scraper import Scraper
 
-airlines_url = "https://www.edinburghairport.com/help/contact-us/airline-contacts"
-destinations_url = "https://www.edinburghairport.com/flights/destinations/a-to-z"
+base_url = "https://www.edinburghairport.com/"
+airlines_url = "/help/contact-us/airline-contacts"
+destinations_url = "/flights/destinations/a-to-z"
 
 scraper = Scraper
 
-airline_service = AirlineService(airlines_url, scraper)
-destination_service = DestinationService(destinations_url, scraper)
+airline_service = AirlineService(base_url, airlines_url, scraper)
+destination_service = DestinationService(base_url, destinations_url, scraper)
 file_helper_service = FileHelper
 
 print("Starting data extraction...")
