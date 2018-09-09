@@ -7,14 +7,14 @@ class Scraper():
 
     def __init__(self):
         self.logger = LoggingService
+        self.resp = None
 
     @staticmethod
     def get_from_url(self, url):
-        """ Make an HTTP Get to URL """
         try:
-            with closing(get(url, stream=True)) as resp:
-                if self.is_successful(self, resp):
-                    return resp.content
+            with closing(get(url, stream=True)) as self.resp:
+                if self.is_successful(self, self.resp):
+                    return self.resp.content
                 else:
                     return None
         
@@ -24,7 +24,6 @@ class Scraper():
 
     @staticmethod
     def is_successful(self, resp):
-        """ Returns true if HTML found at the input URL """
         content_type = resp.headers['Content-Type'].lower()
         return (resp.status_code == 200
                 and content_type is not None
