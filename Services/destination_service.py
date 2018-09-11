@@ -1,4 +1,6 @@
 import re
+import os
+import json
 
 from bs4 import BeautifulSoup
 from models.destination import Destination
@@ -26,6 +28,10 @@ class DestinationService(object):
         raw_html = self.scraper.get_from_url(self.scraper, destinations_full_url)
 
         if raw_html is not None:
+
+            with open("city.list.json", encoding="utf8") as city_list_raw:
+                city_list_json = json.loads(city_list_raw.read())
+
             html  = BeautifulSoup(raw_html, features="html.parser")
             table = html.find('table')
             rows = table.findAll('tr')
@@ -36,14 +42,14 @@ class DestinationService(object):
 
                 if len(cells) > 0:
 
-                    # Get destination name
+                    # Set destination name
                     name = cells[0].find('a').getText().strip()
 
-                    # Get destination airport IATA code
+                    # Set destination airport IATA code
                     links = cells[2].findAll('a')
                     airp_iata_code = links[1]['href'][-3:]
 
-                    # Get image url
+                    # Set image url
                     destination_page_html = self.scraper.get_from_url(self.scraper, self.base_url + cells[0].find('a')['href'])
                     destination_page = BeautifulSoup(destination_page_html, features="html.parser")
                     main_style = destination_page.find('main')['style']
@@ -51,6 +57,15 @@ class DestinationService(object):
 
                     # Set image name
                     img_name = name.lower()
+
+                    # Set Open Weather Map city code
+                    # Set Open Weather Map name
+                    for city in city_list_json:
+                        if city['name'] == name:
+                            owm_city_code = str(city['id'])
+                            owm_name = city['name']
+                        else:
+                            owm_name = ""
 
                 destinations.append(Destination(
                     airp_iata_code,
@@ -60,14 +75,6 @@ class DestinationService(object):
                     owm_city_code,
                     owm_name
                 ))
-
-            for destination in destinations:
-                print(destination.name + "\n" + 
-                      destination.airp_iata_code + "\n" +
-                      destination.img_url + "\n" +
-                      destination.img_name + "\n" +
-                      destination.owm_city_code + "\n" +
-                      destination.owm_name)
 
             return list(destinations)
 
