@@ -1,6 +1,4 @@
-import re
-import os
-import json
+import re, os, json, csv
 
 from bs4 import BeautifulSoup
 from models.destination import Destination
@@ -45,6 +43,8 @@ class DestinationService(object):
                     # Set destination name
                     name = cells[0].find('a').getText().strip()
 
+                    print("Parsing " + name)
+
                     # Set destination airport IATA code
                     links = cells[2].findAll('a')
                     airp_iata_code = links[1]['href'][-3:]
@@ -64,8 +64,6 @@ class DestinationService(object):
                         if city['name'] == name:
                             owm_city_code = str(city['id'])
                             owm_name = city['name']
-                        else:
-                            owm_name = ""
 
                 destinations.append(Destination(
                     airp_iata_code,
@@ -79,3 +77,24 @@ class DestinationService(object):
             return list(destinations)
 
         raise Exception('Error retrieving contents at {}'.format(self.base_url))
+
+    @staticmethod
+    def save_destinations_to_csv(self, destinations):
+        output_folder = os.getcwd() + "\\output\\"
+
+        with open(output_folder + "destinations" + ".csv",'w') as csv_output:
+            writer = csv.writer(csv_output, dialect='excel')
+            writer.writerow(destinations[0].__dict__.keys())
+
+            for destination in destinations:
+                destination = destination.__dict__
+                writer.writerow(destination.values())
+
+        return None
+
+    @staticmethod
+    def save_destination_image_data(models, model_type):
+        # download each URL in list and create directory structure
+
+        return None
+        #print(models)

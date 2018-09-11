@@ -1,0 +1,60 @@
+airl_iata_code,name,img_url,img_name
+,,,
+A3,Aegan Airlines,http://edinburghairport.s3.amazonaws.com/files/airlines/big/A3.jpg,a3
+EI,Aer Lingus (Stobart Air),http://edinburghairport.s3.amazonaws.com/files/airlines/big/EI.jpg,ei
+AB,Air Berlin,http://edinburghairport.s3.amazonaws.com/files/airlines/big/AB.jpg,ab
+AC,Air Canada,http://edinburghairport.s3.amazonaws.com/files/airlines/big/AC.jpg,ac
+AC,Air Canada Rouge,http://edinburghairport.s3.amazonaws.com/files/airlines/big/AC.jpg,ac
+UX,Air Europa,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/UX.png,ux
+AF,Air France,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/AF.jpg,af
+HM,Air Seychelles,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/HM.png,hm
+americanairlines,American Airlines,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/americanairlines.png,americanairlines
+atlanticAirways,Atlantic Airways,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/atlanticAirways.png,atlanticairways
+OS,Austrian,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/OS.png,os
+bacityflyer,BA Cityflyer,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/bacityflyer.png,bacityflyer
+BHair,BH Air,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/BHair.png,bhair
+BMI_regional,BMI Regional,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/BMI_regional.jpg,bmi_regional
+barrheadtravel,Barrhead Travel,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/barrheadtravel.png,barrheadtravel
+BA,British Airways,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/BA.jpg,ba
+SN,Brussels Airlines,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/SN.png,sn
+CX,Cathay Pacific,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/CX.jpg,cx
+WX,CityJet,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/WX.png,wx
+CRS,Crystal Ski,http://edinburghairport.s3.amazonaws.com/files/airlines/big/CRS.jpg,crs
+delta,Delta Virgin,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/delta.jpg,delta
+ED,Edelweiss Air,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/ED.jpg,ed
+EK,Emirates,http://edinburghairport.s3.amazonaws.com/files/airlines/big/EK.jpg,ek
+EY,Etihad Airways,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/EY.png,ey
+EW,Eurowings,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/EW.jpg,ew
+finnair,Finnair,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/finnair.jpg,finnair
+BE,FlyBe,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/BE.jpg,be
+BE,FlyBe (Loganair),https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/BE.jpg,be
+flynas,Flynas,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/flynas.png,flynas
+HU,Hainan Airlines,http://edinburghairport.s3.amazonaws.com/files/airlines/big/HU.jpg,hu
+IB,Iberia,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/IB.jpg,ib
+IBS,Iberia Express,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/IBS.JPG,ibs
+inghams,Inghams,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/inghams.jpg,inghams
+6H,Israir Airlines,http://edinburghairport.s3.amazonaws.com/files/airlines/big/6H.png,6h
+9W,Jet Airways,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/9W.jpg,9w
+LS,Jet2.com,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/LS.jpg,ls
+KL,KLM,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/KL.jpg,kl
+LO,LOT Polish Airlines,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/LO.gif,lo
+LM,Loganair,http://edinburghairport.s3.amazonaws.com/files/airlines/big/LM.jpg,lm
+LH,Lufthansa,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/LH.jpg,lh
+M4,Mistral Air,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/M4.jpg,m4
+DY,Norwegian,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/DY.jpg,dy
+WY,Omar Air,http://edinburghairport.s3.amazonaws.com/files/airlines/big/WY.png,wy
+PWA,Powdair,http://edinburghairport.s3.amazonaws.com/files/airlines/big/PWA.jpg,pwa
+QR,Qatar Airways,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/QR.png,qr
+FR,Ryanair,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/FR.jpg,fr
+sas,SAS Scandinavian,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/sas.png,sas
+SA,South African Airways,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/SA.jpg,sa
+UL,Sri Lankan Airlines,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/UL.png,ul
+thomascook,Thomas Cook,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/thomascook.jpg,thomascook
+TOM,Thomson Airways,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/TOM.jpg,tom
+TRA,Transavia France,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/TRA.jpg,tra
+TK,Turkish Airlines,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/TK.jpg,tk
+UA,United Airlines,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/UA.jpg,ua
+VA,Virgin Australia,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/VA.jpg,va
+VY,Vueling,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/VY.jpg,vy
+WO,Wow Air,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/WO.jpg,wo
+EZY,easyJet,https://s3-eu-west-1.amazonaws.com/ediassets/img/airlines/EZY.jpg,ezy

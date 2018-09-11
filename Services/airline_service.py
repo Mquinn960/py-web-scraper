@@ -1,6 +1,4 @@
-import re
-import os
-import json
+import re, os, json, csv
 
 from bs4 import BeautifulSoup
 from models.airline import Airline
@@ -38,13 +36,15 @@ class AirlineService(object):
                 if len(cells) > 0:
 
                     # Get image url
-                    img_url = cells[2].find('img')['src']
+                    img_url = cells[2].find('img')['src'].replace("small", "big")
                 
                     # Get airline IATA code
-                    airl_iata_code = re.find('/[\w-]+\.(jpg)/g', img_url)[:-4]
+                    airl_iata_code = img_url.split("/")[-1][:-4]
 
                     # Get destination name
                     name = cells[0].getText().strip()
+
+                    print("Parsing " + name)
 
                     # Set image name
                     img_name = airl_iata_code.lower()
@@ -56,12 +56,27 @@ class AirlineService(object):
                     img_name
                 ))
 
-                for airline in airlines:
-                    print (airl_iata_code + "\n" +
-                           name + "\n" +
-                           img_url + "\n" +
-                           img_name)
-
             return list(airlines)
 
         raise Exception('Error retrieving contents at {}'.format(self.base_url))
+
+    @staticmethod
+    def save_airlines_to_csv(self, airlines):
+        output_folder = os.getcwd() + "\\output\\"
+
+        with open(output_folder + "airlines" + ".csv",'w') as csv_output:
+            writer = csv.writer(csv_output, dialect='excel')
+            writer.writerow(airlines[0].__dict__.keys())
+
+            for airline in airlines:
+                airline = airline.__dict__
+                writer.writerow(airline.values())
+
+        return None
+
+    @staticmethod
+    def save_airline_image_data(models, model_type):
+        # download each URL in list and create directory structure
+
+        return None
+        #print(models)
