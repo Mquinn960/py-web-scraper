@@ -1,151 +1,151 @@
-airp_iata_code,name,img_url,img_name,owm_city_code,owm_name
-BHD,Belfast City,https://edinburghairport.s3.amazonaws.com/files/2017/06/712d1b68739f7b583ed3d11259fff379.jpg,belfast city,2655984,Belfast
-BFS,Belfast International,https://edinburghairport.s3.amazonaws.com/files/2017/06/afe8749b403bfb43fa6eac6dd14f8554.jpg,belfast international,2655984,Beijing
-SXF,Berlin Schönefeld,https://edinburghairport.s3.amazonaws.com/files/2017/05/2cd66fbe6b14ddcb887bd91e10c0585f.jpg,berlin schönefeld,2950159,Berlin
-BOJ,Bourgas,https://edinburghairport.s3.amazonaws.com/files/2017/05/6345a52e794b93b20b6452899564147a.jpg,bourgas,732769,Burgas
-CRL,Brussels Charleroi,https://edinburghairport.s3.amazonaws.com/files/2017/05/bf6a4f0bb1959ae3458ee8ad8605ee4c.jpg,brussels charleroi,2800866,Brussels
-BRU,Brussels National,https://edinburghairport.s3.amazonaws.com/files/2017/05/ca2dde824ef598c18374b75345508141.jpg,brussels national,2800866,Brussels
-ORD,Chicago O'Hare,https://edinburghairport.s3.amazonaws.com/files/2017/06/cfd6aef19955636c43a8d4f6c4d224f7.jpg,chicago o'hare,3582383,Chicago
-CFU,Corfu,https://edinburghairport.s3.amazonaws.com/files/2017/06/dd376158692a27dc5d24402002227052.jpg,corfu,8133855,Dimos Corfu
-LDY,Derry (Londonderry),https://edinburghairport.s3.amazonaws.com/files/2018/03/8acd58b322b2380df5822ebf7b232ca8.jpg,derry (londonderry),3311141,Derry
-NRN,Dusseldorf (Weeze),https://edinburghairport.s3.amazonaws.com/files/2017/06/4df0b1901548a06f0918f762146a5155.jpg,dusseldorf (weeze),2934246,Dusseldorf
-DUS,Düsseldorf,https://edinburghairport.s3.amazonaws.com/files/2017/06/529314d30e49ee0e59c821a687751666.jpg,düsseldorf,2934246,Dusseldorf
-EMA,East Midlands,https://edinburghairport.s3.amazonaws.com/files/2017/06/e0c350b113e99d91fcf3d9009fec5b0f.jpg,east midlands,2651347,Derby
-HHN,Frankfurt Hahn,https://edinburghairport.s3.amazonaws.com/files/2017/06/a1f494557b8803c76afc2d51f0ac3fcd.jpg,frankfurt hahn,2925533,Frankfurt am Main
-FRA,Frankfurt Main,https://edinburghairport.s3.amazonaws.com/files/2017/06/89a2482bd56901cc6d2abb7a49381100.jpg,frankfurt main,2925533,Frankfurt am Main
-FUE,Fuerteventura,https://edinburghairport.s3.amazonaws.com/files/2017/06/f11c55876a6b432b942de89df4f37ecf.jpg,fuerteventura,2518348,El Matorral
-GRO,Girona Costa Brava,https://edinburghairport.s3.amazonaws.com/files/2017/06/ec3a3452d55c08a300c90084604b8ebe.jpg,girona costa brava,6534067,Girona
-GOT,Gothenburg Landvetter,https://edinburghairport.s3.amazonaws.com/files/2017/06/d5ca7230479d9c6c9f4ff25ce36ed6d8.jpg,gothenburg landvetter,2697703,Landvetter
-LPA,Gran Canaria,https://edinburghairport.s3.amazonaws.com/files/2017/06/bf6df6d199e1a7dd3a3dd67b7240687d.jpg,gran canaria,6360186,Las Palmas de Gran Canaria
-HER,Heraklion (Crete),https://edinburghairport.s3.amazonaws.com/files/2017/06/20b09dc5dd6f6afc44664086e1d8b350.jpg,heraklion (crete),8133920,Dimon Heraklion
-NOC,Ireland West Airport Knock,https://edinburghairport.s3.amazonaws.com/files/2017/06/982b8f7963bc61e3c68616c0506dd848.jpg,ireland west airport knock,2961299,Swinford
-JER,Jersey,https://edinburghairport.s3.amazonaws.com/files/2017/06/ce38b8ab7696bef6bf7facc65a7c0e62.jpg,jersey,6620384,Jersey (general)
-FKB,Karlsruhe/Baden-Baden,https://edinburghairport.s3.amazonaws.com/files/2017/06/6833e19e394ef0ee8123b6e3adbeefd7.jpg,karlsruhe/baden-baden,2892794,Karlsruhe
-ACE,Lanzarote,https://edinburghairport.s3.amazonaws.com/files/2017/06/d8a4bf26d0d5f3ab4950cdc2ee09bdd4.jpg,lanzarote,2521570,Arrecife
-LCA,Larnaca (Cyprus),https://edinburghairport.s3.amazonaws.com/files/2017/06/2d63ce15da9b3d412d410427302b52df.jpg,larnaca (cyprus),146400,Larnaca
-LCY,London City,https://edinburghairport.s3.amazonaws.com/files/2017/06/471afd60410f25236588adbfb5d9071c.jpg,london city,2643743,Lisbon
-LGW,London Gatwick,https://edinburghairport.s3.amazonaws.com/files/2017/06/736d48f502db6e9015b825fcff139b55.jpg,london gatwick,2643743,Lisbon
-LHR,London Heathrow,https://edinburghairport.s3.amazonaws.com/files/2017/06/736fd7f2bab2c3f9d3852dd09c0e9b49.jpg,london heathrow,2643743,Lisbon
-LTN,London Luton,https://edinburghairport.s3.amazonaws.com/files/2017/06/66f9e19d0b039207a778357696cad221.jpg,london luton,2643339,Luton
-STN,London Stansted,https://edinburghairport.s3.amazonaws.com/files/2017/06/2fa5fcd2b7434a8d6ce7dbfa62a98b43.jpg,london stansted,2643743,Lisbon
-MAH,Menorca,https://edinburghairport.s3.amazonaws.com/files/2017/06/b18ee87f31fe8907f2abf28d5161fa97.jpg,menorca,6533939,Ciutadella de Menorca
-BGY,Milan Bergamo,https://edinburghairport.s3.amazonaws.com/files/2017/06/9f83e0b6735720cb9ab6456a3fbbc668.jpg,milan bergamo,6542283,Milan
-MXP,Milan Malpensa,https://edinburghairport.s3.amazonaws.com/files/2017/06/67cc160be2896076705f80a9db999007.jpg,milan malpensa,6542283,Milan
-MUC,Munich,https://edinburghairport.s3.amazonaws.com/files/2017/06/507f230c622bcfa6b5ed8462476b8fdd.jpg,munich,2925034,Freising
-JFK,New York JFK,https://edinburghairport.s3.amazonaws.com/files/2017/06/3052362444199156ed736f02abef1282.jpg,new york jfk,5128638,New York
-EWR,New York Newark,https://edinburghairport.s3.amazonaws.com/files/2017/06/a62c337455346e4ea008285499efce4e.jpg,new york newark,5128638,New York
-SWF,New York Stewart,https://edinburghairport.s3.amazonaws.com/files/2017/06/f1b207aa10e01664cc7337bfdf351345.jpg,new york stewart,5128638,New York
-SFB,Orlando Sanford,https://edinburghairport.s3.amazonaws.com/files/2017/06/1be89b7717757ea15f2b4da88026f15c.jpg,orlando sanford,4167147,Orlando
-PFO,Paphos (Cyprus),https://edinburghairport.s3.amazonaws.com/files/2017/06/e4f3649f701ccba477d3cef0bd5de372.jpg,paphos (cyprus),146214,Paphos
-CDG,Paris CDG,https://edinburghairport.s3.amazonaws.com/files/2017/06/94e60a223df1366fd783ef8de6adf2c8.jpg,paris cdg,2988507,Paris
-ORY,Paris Orly,https://edinburghairport.s3.amazonaws.com/files/2017/06/9342c28d69a67b3af45844f9e69a02ff.jpg,paris orly,2988507,Paris
-PVD,Providence (Boston),https://edinburghairport.s3.amazonaws.com/files/2017/05/d58e208c54d62a14269ce31d253bba3a.jpg,providence (boston),5780020,Providence
-KEF,Reykjavik (Keflavik),https://edinburghairport.s3.amazonaws.com/files/2017/06/0d5021b74351a34f4ccaaaba0f62ab7c.jpg,reykjavik (keflavik),6692263,Reykjavik
-CIA,Rome Ciampino,https://edinburghairport.s3.amazonaws.com/files/2017/06/7afb70650c57299b5a4188ae1adaebf1.jpg,rome ciampino,6538691,Ciampino
-ARN,Stockholm Arlanda,https://edinburghairport.s3.amazonaws.com/files/2017/06/5ff7e2dc4f34d8ac4b6b0af522caddd7.jpg,stockholm arlanda,2673730,Stockholm
-NYO,Stockholm Skavsta,https://edinburghairport.s3.amazonaws.com/files/2018/03/a6d2195fc84a93030dfed2176d57c47a.jpg,stockholm skavsta,2673730,Stockholm
-LSI,Sumburgh,https://edinburghairport.s3.amazonaws.com/files/2018/07/1680bc082ae1f5deec27e56ab422c9ad.JPG,sumburgh,2638010,Shetland Islands
-TFS,Tenerife South,https://edinburghairport.s3.amazonaws.com/files/2017/06/3a2331713a9781e1d337bf49f7961f3c.jpg,tenerife south,6360638,Santa Cruz de Tenerife
-TRN,Turin,https://edinburghairport.s3.amazonaws.com/files/2017/06/6014c73bf3b8b7666de19182ef123328.jpg,turin,3179911,Caselle Torinese
-TSF,Venice Treviso,https://edinburghairport.s3.amazonaws.com/files/2017/06/c8f52bcee3272b5346de424270a5284b.jpg,venice treviso,6540118,Treviso
-MI ,Warsaw Modlin,https://edinburghairport.s3.amazonaws.com/files/2017/06/ca9a4fbf327422018449dd1ea818bcbd.jpg,warsaw modlin,756135,Warsaw
-IAD,Washington D.C.,https://edinburghairport.s3.amazonaws.com/files/2017/09/96e9e0341a92e6a383e725ccca8ef56a.jpg,washington d.c.,4140963,"Washington, D. C."
-ZTH,Zakynthos (Zante),https://edinburghairport.s3.amazonaws.com/files/2017/06/005898fa167a4c826cc74a5968993e02.jpg,zakynthos (zante),251280,Dimos Zakynthos
-AUH,Abu Dhabi,https://edinburghairport.s3.amazonaws.com/files/2017/05/0a3fa1ebc8203a4413226ed617e21bce.jpg,abu dhabi,292968,Abu Dhabi
-ALC,Alicante,https://edinburghairport.s3.amazonaws.com/files/2017/05/aa26cc631edd26c7f7ee395635090db9.jpg,alicante,1731494,Alicante
-LEI,Almeria,https://edinburghairport.s3.amazonaws.com/files/2017/04/424555f9a2e17f29f1893cf19304acbd.jpg,almeria,1731314,Almeria
-AMS,Amsterdam,https://edinburghairport.s3.amazonaws.com/files/2017/05/d6bb306f342cc76a858342de79edb5c4.jpg,amsterdam,5637141,Amsterdam
-AYT,Antalya,https://edinburghairport.s3.amazonaws.com/files/2017/06/534a4ca9fe4836d32cc3fe1728a7f415.jpg,antalya,323777,Antalya
-ATH,Athens,https://edinburghairport.s3.amazonaws.com/files/2017/05/4ebdb01cf0a437f5e751ff9a8f181881.jpg,athens,5244312,Athens
-BCN,Barcelona,https://edinburghairport.s3.amazonaws.com/files/2017/05/a6abf32f38274401b2ede21a4becda9f.jpg,barcelona,1726708,Barcelona
-BSL,Basel,https://edinburghairport.s3.amazonaws.com/files/2017/06/c1b2e244929afb191c73373100e97b5d.jpg,basel,2661604,Basel
-PEK,Beijing,https://edinburghairport.s3.amazonaws.com/files/2018/03/b7cfb1ad0e209a76887687dca550950d.jpg,beijing,1816670,Beijing
-EGC,Bergerac,https://edinburghairport.s3.amazonaws.com/files/2017/05/43318512e8694a1263fdf8dfb7a50f17.jpg,bergerac,3033391,Bergerac
-BZR,Beziers,https://edinburghairport.s3.amazonaws.com/files/2017/05/67e7cf65b92839f7dab241b9418a678c.jpg,beziers,3032833,Beziers
-BIO,Bilbao,https://edinburghairport.s3.amazonaws.com/files/2017/05/3a2c79065574d1d268e598a4c76c9067.jpg,bilbao,3128026,Bilbao
-BHX,Birmingham,https://edinburghairport.s3.amazonaws.com/files/2017/05/ae5653465a098db049e07a4c624b15ef.jpg,birmingham,4986172,Birmingham
-BJV,Bodrum,https://edinburghairport.s3.amazonaws.com/files/2017/05/203dcb3bdfa4fe7b65fcb9b4cb39382c.jpg,bodrum,320995,Bodrum
-BLQ,Bologna,https://edinburghairport.s3.amazonaws.com/files/2017/05/a9bc987caa7506a6470ffe22ccdd1445.jpg,bologna,3181928,Bologna
-BOD,Bordeaux,https://edinburghairport.s3.amazonaws.com/files/2017/05/5599a13a76aff3040128db642f5d85d7.jpg,bordeaux,3031582,Bordeaux
-BTS,Bratislava,https://edinburghairport.s3.amazonaws.com/files/2017/05/dd28622a936a268020005fe25e578da2.jpg,bratislava,3060972,Bratislava
-BRS,Bristol,https://edinburghairport.s3.amazonaws.com/files/2017/05/1187428d84865ad48e3c18fa23a73cf3.jpg,bristol,5908999,Bristol
-BUD,Budapest,https://edinburghairport.s3.amazonaws.com/files/2017/05/a115c6982b756dd9cd55bcc2806dbf96.jpg,budapest,3054643,Budapest
-CUN,Cancun,https://edinburghairport.s3.amazonaws.com/files/2017/05/7f2a180b281a9b0066eec1c65f7bebae.jpg,cancun,3531673,Cancun
-CCF,Carcassonne,https://edinburghairport.s3.amazonaws.com/files/2017/06/174caf3696e86f4a58774d226a73fa11.jpg,carcassonne,3028641,Carcassonne
-WL ,Cardiff,https://edinburghairport.s3.amazonaws.com/files/2017/05/7efcce055c1094ddbbd8f8cfaa9265e0.jpg,cardiff,2653822,Cardiff
-CMF,Chambery,https://edinburghairport.s3.amazonaws.com/files/2017/05/32c7ea7ba8f99c2574852dcb153a554f.jpg,chambery,3027422,Chambery
-CGN,Cologne,https://edinburghairport.s3.amazonaws.com/files/2017/06/80efdbff75377b0b0b85072ecd40e301.jpg,cologne,5021807,Cologne
-CPH,Copenhagen,https://edinburghairport.s3.amazonaws.com/files/2017/06/949eeb4f367871bbc5bb37b882d7f9fd.jpg,copenhagen,2618425,Copenhagen
-ORK,Cork,https://edinburghairport.s3.amazonaws.com/files/2017/05/a4fea31bd2cd4d0d1b5c1d289bb47bed.jpg,cork,2965140,Cork
-DLM,Dalaman,https://edinburghairport.s3.amazonaws.com/files/2017/06/70f7b2cbf06919784023261f8e1ba47e.jpg,dalaman,447273,Dalaman
-DOH,Doha,https://edinburghairport.s3.amazonaws.com/files/2017/06/c7d8eebd6c206c000b74cc7c61888881.jpg,doha,290030,Doha
-DXB,Dubai,https://edinburghairport.s3.amazonaws.com/files/2018/05/e53d0c6553195b825900f6329b186252.jpg,dubai,292223,Dubai
-DUB,Dublin,https://edinburghairport.s3.amazonaws.com/files/2017/06/d375e6bc1850977c019fe597df8d553d.jpg,dublin,5187443,Dublin
-DBV,Dubrovnik,https://edinburghairport.s3.amazonaws.com/files/2017/06/5044843355953071ebe80fbf3f50da4e.jpg,dubrovnik,3201047,Dubrovnik
-EIN,Eindhoven,https://edinburghairport.s3.amazonaws.com/files/2017/06/a0c3d4f9240545d03864f2ce24c88f40.jpg,eindhoven,2798895,Eindhoven
-EXT,Exeter,https://edinburghairport.s3.amazonaws.com/files/2017/06/eb58c9d93098d1167e49cb93b67d3df9.jpg,exeter,5347239,Exeter
-FAO,Faro,https://edinburghairport.s3.amazonaws.com/files/2017/06/99d726aafd8442e5cc393fe536c2ed40.jpg,faro,2268339,Faro
-FAE,Faroe Islands,https://edinburghairport.s3.amazonaws.com/files/2017/06/6529e67e4d082fc263b47e0f24be6b59.jpg,faroe islands,2622320,Faroe Islands
-FLR,Florence,https://edinburghairport.s3.amazonaws.com/files/2017/12/c52b9af1f992f63ca92316efba153ab6.jpg,florence,5727032,Florence
-GDN,Gdansk,https://edinburghairport.s3.amazonaws.com/files/2017/06/b030e2346dc3c211d88013cd49a34e84.jpg,gdansk,3099434,Gdansk
-GVA,Geneva,https://edinburghairport.s3.amazonaws.com/files/2017/06/891619ba4a9c007e00eaf9b7a4aedc9a.jpg,geneva,5795348,Geneva
-GNB,Grenoble,https://edinburghairport.s3.amazonaws.com/files/2017/06/a049f3af7357cf9d9c95e11fd9b6d78c.jpg,grenoble,3014728,Grenoble
-HAM,Hamburg,https://edinburghairport.s3.amazonaws.com/files/2017/06/8b5738c0dca749ed65759d23b8e9f49f.jpg,hamburg,5192444,Hamburg
-HEL,Helsinki,https://edinburghairport.s3.amazonaws.com/files/2017/06/77ca9ef463fcc4701531928bfa6684e7.jpg,helsinki,658224,Helsinki
-IBZ,Ibiza,https://edinburghairport.s3.amazonaws.com/files/2017/06/792bb7b0dee3284c0b2a9fa092eab9f6.jpg,ibiza,2516479,Ibiza
-INN,Innsbruck,https://edinburghairport.s3.amazonaws.com/files/2017/06/58dbffc9fea9b8d2aa1421503520ceb9.jpg,innsbruck,2775220,Innsbruck
-IOM,Isle of Man,https://edinburghairport.s3.amazonaws.com/files/2017/06/3c0b3a096723cbe8f5ca3135d4bf1d80.jpg,isle of man,6620382,Isle of Man
-IST,Istanbul,https://edinburghairport.s3.amazonaws.com/files/2017/06/07935ae3dbd8dcac70a15418687129c4.jpg,istanbul,745044,Istanbul
-KTW,Katowice,https://edinburghairport.s3.amazonaws.com/files/2017/06/f7549d55ff2f8149b5febfe9b7a00313.jpg,katowice,3096472,Katowice
-KUN,Kaunas,https://edinburghairport.s3.amazonaws.com/files/2017/06/e7608971528ce5ddca9b3b5b47c5d84c.jpg,kaunas,598316,Kaunas
-EFL,Kefalonia,https://edinburghairport.s3.amazonaws.com/files/2017/06/5ff1af6cd3743839a083637fbf7cfac3.jpg,kefalonia,7290409,Kefalonia
-KOI,Kirkwall,https://edinburghairport.s3.amazonaws.com/files/2017/06/829ce0e02ead64e5943366ad8bcfd737.jpg,kirkwall,2645198,Kirkwall
-KGS,Kos,https://edinburghairport.s3.amazonaws.com/files/2017/06/9981c9d9595257f919decb98f5d5bbea.jpg,kos,259245,Kos
-KRK,Krakow,https://edinburghairport.s3.amazonaws.com/files/2017/06/0b4dee921c2a4c251a67dcb2aec1be6a.jpg,krakow,3094802,Krakow
-LIS,Lisbon,https://edinburghairport.s3.amazonaws.com/files/2017/06/619c8fc6aa6aed32d28c06011911ba38.jpg,lisbon,5160951,Lisbon
-LYS,Lyon,https://edinburghairport.s3.amazonaws.com/files/2017/06/e25d1aed1d7c0dab6e919bf33768af81.jpg,lyon,2996944,Lyon
-FNC,Madeira,https://edinburghairport.s3.amazonaws.com/files/2017/06/f4a4499421c6a43c262f10e82f540fad.jpg,madeira,4517353,Madeira
-MAD,Madrid,https://edinburghairport.s3.amazonaws.com/files/2017/06/b0fcd54eb2a48caad487443766007a28.jpg,madrid,4865871,Madrid
-AGP,Malaga,https://edinburghairport.s3.amazonaws.com/files/2017/06/7b8640d397278d0fd59ee28666163b60.jpg,malaga,1703269,Malaga
-MLA,Malta,https://edinburghairport.s3.amazonaws.com/files/2017/06/c7a8bbfcc39d4129b0191439d54fc31e.jpg,malta,5664486,Malta
-MAN,Manchester,https://edinburghairport.s3.amazonaws.com/files/2017/05/2fc942691a1966a4431bb9bc145bcaae.jpg,manchester,5802247,Manchester
-MRS,Marseille,https://edinburghairport.s3.amazonaws.com/files/2017/06/1b06e35cf4b4af1ef0ede567b926f60b.jpg,marseille,2995469,Marseille
-FMM,Memmingen,https://edinburghairport.s3.amazonaws.com/files/2018/03/ab9855316a76240a3a5810ac18d831e5.jpg,memmingen,2871992,Memmingen
-MJV,Murcia,https://edinburghairport.s3.amazonaws.com/files/2017/06/1bf6eab5fb03424fc4c39d09a2d4e126.jpg,murcia,1699059,Murcia
-NTE,Nantes,https://edinburghairport.s3.amazonaws.com/files/2017/06/e679e68f73e8ce86d88f7ca294b41b55.jpg,nantes,2990969,Nantes
-NAP,Naples,https://edinburghairport.s3.amazonaws.com/files/2017/06/919a68faa49f7b0718d6d80204a81ed8.jpg,naples,5778807,Naples
-NQY,Newquay,https://edinburghairport.s3.amazonaws.com/files/2017/05/9858b369e0681e61af77229fc92104f8.jpg,newquay,2641589,Newquay
-NCE,Nice,https://edinburghairport.s3.amazonaws.com/files/2017/07/ac2f0666a44fb69f5e40b8147eb5d8ba.jpg,nice,5376959,Nice
-WI ,Norwich,https://edinburghairport.s3.amazonaws.com/files/2017/05/5fc2fdc6b97e9e5fb413315a3ea5dcdf.jpg,norwich,5129359,Norwich
-OSL,Oslo,https://edinburghairport.s3.amazonaws.com/files/2017/06/fde0a0ea38e32f2bc627ee6fc826d318.jpg,oslo,3143244,Oslo
-PMI,Palma,https://edinburghairport.s3.amazonaws.com/files/2017/06/5d8b09772cad8ca3305d82d2926a4a83.jpg,palma,3393269,Palma
-PSA,Pisa,https://edinburghairport.s3.amazonaws.com/files/2017/06/bf8a87c001b966fece85099fcc304a85.jpg,pisa,3170647,Pisa
-OPO,Porto,https://edinburghairport.s3.amazonaws.com/files/2017/06/a0b433e751e62723c84b50a33a28554c.jpg,porto,3113104,Porto
-POZ,Poznan,https://edinburghairport.s3.amazonaws.com/files/2017/06/053069432d06f3a076e2978ceb9709ab.jpg,poznan,3088171,Poznan
-PRG,Prague,https://edinburghairport.s3.amazonaws.com/files/2017/06/7394cc659cd6c6f49016bf5959f6d5d1.jpg,prague,4548393,Prague
-PUY,Pula,https://edinburghairport.s3.amazonaws.com/files/2017/06/1070ee8068d22f0b9a5845dc0080aa11.jpg,pula,2523675,Pula
-REU,Reus,https://edinburghairport.s3.amazonaws.com/files/2017/06/e5d9eaa720b068b6bccb3d4bdbffa374.jpg,reus,3111933,Reus
-RHO,Rhodes,https://edinburghairport.s3.amazonaws.com/files/2017/06/4f47ca0c5cc63f9ba18c294ce43120d0.jpg,rhodes,2151682,Rhodes
-SZG,Salzburg,https://edinburghairport.s3.amazonaws.com/files/2017/06/f50d1ae811e3a4a9e2cd505e615eed8c.jpg,salzburg,2842167,Salzburg
-SDR,Santander,https://edinburghairport.s3.amazonaws.com/files/2017/06/b7f507a58ce6255295c22d470813ca0b.jpg,santander,1687965,Santander
-SVQ,Seville,https://edinburghairport.s3.amazonaws.com/files/2018/01/d1ab154f6dae5740d217aa42a796190c.jpg,seville,5171681,Seville
-SNN,Shannon,https://edinburghairport.s3.amazonaws.com/files/2017/06/58b4dc9538e9fc156e433b4a1cf6b10c.jpg,shannon,4445668,Shannon
-SOF,Sofia,https://edinburghairport.s3.amazonaws.com/files/2017/08/e68fecc3de2cee53ec493e334064a2b2.jpg,sofia,727011,Sofia
-SOU,Southampton,https://edinburghairport.s3.amazonaws.com/files/2017/05/2c4cb37b27f55461742e0eb0f46e0e3b.jpg,southampton,5139030,Southampton
-SPU,Split,https://edinburghairport.s3.amazonaws.com/files/2017/06/5b17ed6812f59171245599d203e1ba79.jpg,split,3190261,Split
-SYY,Stornoway,https://edinburghairport.s3.amazonaws.com/files/2017/06/c064f25d3e77ace3925236ca9e56a135.jpg,stornoway,2636790,Stornoway
-STR,Stuttgart,https://edinburghairport.s3.amazonaws.com/files/2017/06/227c254f84a1ad1485e6025a283144bc.jpg,stuttgart,4132625,Stuttgart
-SZZ,Szczecin,https://edinburghairport.s3.amazonaws.com/files/2017/06/da7fe645c79161238c27edd598471153.jpg,szczecin,7531766,Szczecin
-TLL,Tallinn,https://edinburghairport.s3.amazonaws.com/files/2018/03/f71725a5db2956497cd10b7645973a99.jpg,tallinn,588409,Tallinn
-TLV,Tel Aviv,https://edinburghairport.s3.amazonaws.com/files/2018/03/95bf48380d89497eddcab63137e74cca.jpg,tel aviv,293397,Tel Aviv
-SKG,Thessaloniki,https://edinburghairport.s3.amazonaws.com/files/2017/06/23a49d4324c3145a00d491d359eac9f8.jpg,thessaloniki,734077,Thessaloniki
-YYZ,Toronto,https://edinburghairport.s3.amazonaws.com/files/2017/06/f36bcd498d3424a67d58e946d356654a.jpg,toronto,5174095,Toronto
-TLS,Toulouse,https://edinburghairport.s3.amazonaws.com/files/2017/06/093dc99847cb72192f2b991062dc1163.jpg,toulouse,2972315,Toulouse
-VLC,Valencia,https://edinburghairport.s3.amazonaws.com/files/2017/06/7e016943462958402d64518a4fc3639b.jpg,valencia,5496315,Valencia
-VCE,Venice,https://edinburghairport.s3.amazonaws.com/files/2017/06/8ef8b70b875eec0aabb12cc30ae1989f.jpg,venice,4251958,Venice
-VRN,Verona,https://edinburghairport.s3.amazonaws.com/files/2017/06/b527fe931d6d889ae7f91ff60fda6457.jpg,verona,5277142,Verona
-VIE,Vienna,https://edinburghairport.s3.amazonaws.com/files/2017/06/0f3c3481d2ae4fc5ce743f94842b66b5.jpg,vienna,4825976,Vienna
-VGO,Vigo,https://edinburghairport.s3.amazonaws.com/files/2017/06/a42748ab58d54d6b4f9c311a8e6e8649.jpg,vigo,1679964,Vigo
-WIC,Wick,https://edinburghairport.s3.amazonaws.com/files/2017/06/b5b7d63fbe84c3d320b0731860d48ae5.jpg,wick,2633985,Wick
-WRO,Wroclaw,https://edinburghairport.s3.amazonaws.com/files/2017/06/6c38b998d087651530e379308351c06d.jpg,wroclaw,3081368,Wroclaw
-ZRH,Zurich,https://edinburghairport.s3.amazonaws.com/files/2017/06/5891abfaa52d938e2ca8986e67b180d8.jpg,zurich,2657896,Zurich
+ï»¿airp_iata_code,name,img_url,img_name,owm_city_code,owm_name
+BHD,Belfast City,https://edinburghairport.s3.amazonaws.com/files/2017/06/712d1b68739f7b583ed3d11259fff379.jpg,belfast city,2655984,Belfast, 1537432337.839507
+BFS,Belfast International,https://edinburghairport.s3.amazonaws.com/files/2017/06/afe8749b403bfb43fa6eac6dd14f8554.jpg,belfast international,2655984,Beijing, 1537432337.839507
+SXF,Berlin SchÃ¶nefeld,https://edinburghairport.s3.amazonaws.com/files/2017/05/2cd66fbe6b14ddcb887bd91e10c0585f.jpg,berlin schÃ¶nefeld,2950159,Berlin, 1537432337.839507
+BOJ,Bourgas,https://edinburghairport.s3.amazonaws.com/files/2017/05/6345a52e794b93b20b6452899564147a.jpg,bourgas,732769,Burgas, 1537432337.839507
+CRL,Brussels Charleroi,https://edinburghairport.s3.amazonaws.com/files/2017/05/bf6a4f0bb1959ae3458ee8ad8605ee4c.jpg,brussels charleroi,2800866,Brussels, 1537432337.839507
+BRU,Brussels National,https://edinburghairport.s3.amazonaws.com/files/2017/05/ca2dde824ef598c18374b75345508141.jpg,brussels national,2800866,Brussels, 1537432337.839507
+ORD,Chicago O'Hare,https://edinburghairport.s3.amazonaws.com/files/2017/06/cfd6aef19955636c43a8d4f6c4d224f7.jpg,chicago o'hare,3582383,Chicago, 1537432337.839507
+CFU,Corfu,https://edinburghairport.s3.amazonaws.com/files/2017/06/dd376158692a27dc5d24402002227052.jpg,corfu,8133855,Dimos Corfu, 1537432337.839507
+LDY,Derry (Londonderry),https://edinburghairport.s3.amazonaws.com/files/2018/03/8acd58b322b2380df5822ebf7b232ca8.jpg,derry (londonderry),3311141,Derry, 1537432337.839507
+NRN,Dusseldorf (Weeze),https://edinburghairport.s3.amazonaws.com/files/2017/06/4df0b1901548a06f0918f762146a5155.jpg,dusseldorf (weeze),2934246,Dusseldorf, 1537432337.839507
+DUS,DÃ¼sseldorf,https://edinburghairport.s3.amazonaws.com/files/2017/06/529314d30e49ee0e59c821a687751666.jpg,dÃ¼sseldorf,2934246,Dusseldorf, 1537432337.839507
+EMA,East Midlands,https://edinburghairport.s3.amazonaws.com/files/2017/06/e0c350b113e99d91fcf3d9009fec5b0f.jpg,east midlands,2651347,Derby, 1537432337.839507
+HHN,Frankfurt Hahn,https://edinburghairport.s3.amazonaws.com/files/2017/06/a1f494557b8803c76afc2d51f0ac3fcd.jpg,frankfurt hahn,2925533,Frankfurt am Main, 1537432337.839507
+FRA,Frankfurt Main,https://edinburghairport.s3.amazonaws.com/files/2017/06/89a2482bd56901cc6d2abb7a49381100.jpg,frankfurt main,2925533,Frankfurt am Main, 1537432337.839507
+FUE,Fuerteventura,https://edinburghairport.s3.amazonaws.com/files/2017/06/f11c55876a6b432b942de89df4f37ecf.jpg,fuerteventura,2518348,El Matorral, 1537432337.839507
+GRO,Girona Costa Brava,https://edinburghairport.s3.amazonaws.com/files/2017/06/ec3a3452d55c08a300c90084604b8ebe.jpg,girona costa brava,6534067,Girona, 1537432337.839507
+GOT,Gothenburg Landvetter,https://edinburghairport.s3.amazonaws.com/files/2017/06/d5ca7230479d9c6c9f4ff25ce36ed6d8.jpg,gothenburg landvetter,2697703,Landvetter, 1537432337.839507
+LPA,Gran Canaria,https://edinburghairport.s3.amazonaws.com/files/2017/06/bf6df6d199e1a7dd3a3dd67b7240687d.jpg,gran canaria,6360186,Las Palmas de Gran Canaria, 1537432337.839507
+HER,Heraklion (Crete),https://edinburghairport.s3.amazonaws.com/files/2017/06/20b09dc5dd6f6afc44664086e1d8b350.jpg,heraklion (crete),8133920,Dimon Heraklion, 1537432337.839507
+NOC,Ireland West Airport Knock,https://edinburghairport.s3.amazonaws.com/files/2017/06/982b8f7963bc61e3c68616c0506dd848.jpg,ireland west airport knock,2961299,Swinford, 1537432337.839507
+JER,Jersey,https://edinburghairport.s3.amazonaws.com/files/2017/06/ce38b8ab7696bef6bf7facc65a7c0e62.jpg,jersey,6620384,Jersey (general), 1537432337.839507
+FKB,Karlsruhe/Baden-Baden,https://edinburghairport.s3.amazonaws.com/files/2017/06/6833e19e394ef0ee8123b6e3adbeefd7.jpg,karlsruhe baden-baden,2892794,Karlsruhe, 1537432337.839507
+ACE,Lanzarote,https://edinburghairport.s3.amazonaws.com/files/2017/06/d8a4bf26d0d5f3ab4950cdc2ee09bdd4.jpg,lanzarote,2521570,Arrecife, 1537432337.839507
+LCA,Larnaca (Cyprus),https://edinburghairport.s3.amazonaws.com/files/2017/06/2d63ce15da9b3d412d410427302b52df.jpg,larnaca (cyprus),146400,Larnaca, 1537432337.839507
+LCY,London City,https://edinburghairport.s3.amazonaws.com/files/2017/06/471afd60410f25236588adbfb5d9071c.jpg,london city,2643743,Lisbon, 1537432337.839507
+LGW,London Gatwick,https://edinburghairport.s3.amazonaws.com/files/2017/06/736d48f502db6e9015b825fcff139b55.jpg,london gatwick,2643743,Lisbon, 1537432337.839507
+LHR,London Heathrow,https://edinburghairport.s3.amazonaws.com/files/2017/06/736fd7f2bab2c3f9d3852dd09c0e9b49.jpg,london heathrow,2643743,Lisbon, 1537432337.839507
+LTN,London Luton,https://edinburghairport.s3.amazonaws.com/files/2017/06/66f9e19d0b039207a778357696cad221.jpg,london luton,2643339,Luton, 1537432337.839507
+STN,London Stansted,https://edinburghairport.s3.amazonaws.com/files/2017/06/2fa5fcd2b7434a8d6ce7dbfa62a98b43.jpg,london stansted,2643743,Lisbon, 1537432337.839507
+MAH,Menorca,https://edinburghairport.s3.amazonaws.com/files/2017/06/b18ee87f31fe8907f2abf28d5161fa97.jpg,menorca,6533939,Ciutadella de Menorca, 1537432337.839507
+BGY,Milan Bergamo,https://edinburghairport.s3.amazonaws.com/files/2017/06/9f83e0b6735720cb9ab6456a3fbbc668.jpg,milan bergamo,6542283,Milan, 1537432337.839507
+MXP,Milan Malpensa,https://edinburghairport.s3.amazonaws.com/files/2017/06/67cc160be2896076705f80a9db999007.jpg,milan malpensa,6542283,Milan, 1537432337.839507
+MUC,Munich,https://edinburghairport.s3.amazonaws.com/files/2017/06/507f230c622bcfa6b5ed8462476b8fdd.jpg,munich,2925034,Freising, 1537432337.839507
+JFK,New York JFK,https://edinburghairport.s3.amazonaws.com/files/2017/06/3052362444199156ed736f02abef1282.jpg,new york jfk,5128638,New York, 1537432337.839507
+EWR,New York Newark,https://edinburghairport.s3.amazonaws.com/files/2017/06/a62c337455346e4ea008285499efce4e.jpg,new york newark,5128638,New York, 1537432337.839507
+SWF,New York Stewart,https://edinburghairport.s3.amazonaws.com/files/2017/06/f1b207aa10e01664cc7337bfdf351345.jpg,new york stewart,5128638,New York, 1537432337.839507
+SFB,Orlando Sanford,https://edinburghairport.s3.amazonaws.com/files/2017/06/1be89b7717757ea15f2b4da88026f15c.jpg,orlando sanford,4167147,Orlando, 1537432337.839507
+PFO,Paphos (Cyprus),https://edinburghairport.s3.amazonaws.com/files/2017/06/e4f3649f701ccba477d3cef0bd5de372.jpg,paphos (cyprus),146214,Paphos, 1537432337.839507
+CDG,Paris CDG,https://edinburghairport.s3.amazonaws.com/files/2017/06/94e60a223df1366fd783ef8de6adf2c8.jpg,paris cdg,2988507,Paris, 1537432337.839507
+ORY,Paris Orly,https://edinburghairport.s3.amazonaws.com/files/2017/06/9342c28d69a67b3af45844f9e69a02ff.jpg,paris orly,2988507,Paris, 1537432337.839507
+PVD,Providence (Boston),https://edinburghairport.s3.amazonaws.com/files/2017/05/d58e208c54d62a14269ce31d253bba3a.jpg,providence (boston),5780020,Providence, 1537432337.839507
+KEF,Reykjavik (Keflavik),https://edinburghairport.s3.amazonaws.com/files/2017/06/0d5021b74351a34f4ccaaaba0f62ab7c.jpg,reykjavik (keflavik),6692263,Reykjavik, 1537432337.839507
+CIA,Rome Ciampino,https://edinburghairport.s3.amazonaws.com/files/2017/06/7afb70650c57299b5a4188ae1adaebf1.jpg,rome ciampino,6538691,Ciampino, 1537432337.839507
+ARN,Stockholm Arlanda,https://edinburghairport.s3.amazonaws.com/files/2017/06/5ff7e2dc4f34d8ac4b6b0af522caddd7.jpg,stockholm arlanda,2673730,Stockholm, 1537432337.839507
+NYO,Stockholm Skavsta,https://edinburghairport.s3.amazonaws.com/files/2018/03/a6d2195fc84a93030dfed2176d57c47a.jpg,stockholm skavsta,2673730,Stockholm, 1537432337.839507
+LSI,Sumburgh,https://edinburghairport.s3.amazonaws.com/files/2018/07/1680bc082ae1f5deec27e56ab422c9ad.JPG,sumburgh,2638010,Shetland Islands, 1537432337.839507
+TFS,Tenerife South,https://edinburghairport.s3.amazonaws.com/files/2017/06/3a2331713a9781e1d337bf49f7961f3c.jpg,tenerife south,6360638,Santa Cruz de Tenerife, 1537432337.839507
+TRN,Turin,https://edinburghairport.s3.amazonaws.com/files/2017/06/6014c73bf3b8b7666de19182ef123328.jpg,turin,3179911,Caselle Torinese, 1537432337.839507
+TSF,Venice Treviso,https://edinburghairport.s3.amazonaws.com/files/2017/06/c8f52bcee3272b5346de424270a5284b.jpg,venice treviso,6540118,Treviso, 1537432337.839507
+MI ,Warsaw Modlin,https://edinburghairport.s3.amazonaws.com/files/2017/06/ca9a4fbf327422018449dd1ea818bcbd.jpg,warsaw modlin,756135,Warsaw, 1537432337.839507
+IAD,Washington D.C.,https://edinburghairport.s3.amazonaws.com/files/2017/09/96e9e0341a92e6a383e725ccca8ef56a.jpg,washington d.c.,4140963,"Washington, D. C.", 1537432337.839507
+ZTH,Zakynthos (Zante),https://edinburghairport.s3.amazonaws.com/files/2017/06/005898fa167a4c826cc74a5968993e02.jpg,zakynthos (zante),251280,Dimos Zakynthos, 1537432337.839507
+AUH,Abu Dhabi,https://edinburghairport.s3.amazonaws.com/files/2017/05/0a3fa1ebc8203a4413226ed617e21bce.jpg,abu dhabi,292968,Abu Dhabi, 1537432337.839507
+ALC,Alicante,https://edinburghairport.s3.amazonaws.com/files/2017/05/aa26cc631edd26c7f7ee395635090db9.jpg,alicante,1731494,Alicante, 1537432337.839507
+LEI,Almeria,https://edinburghairport.s3.amazonaws.com/files/2017/04/424555f9a2e17f29f1893cf19304acbd.jpg,almeria,1731314,Almeria, 1537432337.839507
+AMS,Amsterdam,https://edinburghairport.s3.amazonaws.com/files/2017/05/d6bb306f342cc76a858342de79edb5c4.jpg,amsterdam,5637141,Amsterdam, 1537432337.839507
+AYT,Antalya,https://edinburghairport.s3.amazonaws.com/files/2017/06/534a4ca9fe4836d32cc3fe1728a7f415.jpg,antalya,323777,Antalya, 1537432337.839507
+ATH,Athens,https://edinburghairport.s3.amazonaws.com/files/2017/05/4ebdb01cf0a437f5e751ff9a8f181881.jpg,athens,5244312,Athens, 1537432337.839507
+BCN,Barcelona,https://edinburghairport.s3.amazonaws.com/files/2017/05/a6abf32f38274401b2ede21a4becda9f.jpg,barcelona,1726708,Barcelona, 1537432337.839507
+BSL,Basel,https://edinburghairport.s3.amazonaws.com/files/2017/06/c1b2e244929afb191c73373100e97b5d.jpg,basel,2661604,Basel, 1537432337.839507
+PEK,Beijing,https://edinburghairport.s3.amazonaws.com/files/2018/03/b7cfb1ad0e209a76887687dca550950d.jpg,beijing,1816670,Beijing, 1537432337.839507
+EGC,Bergerac,https://edinburghairport.s3.amazonaws.com/files/2017/05/43318512e8694a1263fdf8dfb7a50f17.jpg,bergerac,3033391,Bergerac, 1537432337.839507
+BZR,Beziers,https://edinburghairport.s3.amazonaws.com/files/2017/05/67e7cf65b92839f7dab241b9418a678c.jpg,beziers,3032833,Beziers, 1537432337.839507
+BIO,Bilbao,https://edinburghairport.s3.amazonaws.com/files/2017/05/3a2c79065574d1d268e598a4c76c9067.jpg,bilbao,3128026,Bilbao, 1537432337.839507
+BHX,Birmingham,https://edinburghairport.s3.amazonaws.com/files/2017/05/ae5653465a098db049e07a4c624b15ef.jpg,birmingham,4986172,Birmingham, 1537432337.839507
+BJV,Bodrum,https://edinburghairport.s3.amazonaws.com/files/2017/05/203dcb3bdfa4fe7b65fcb9b4cb39382c.jpg,bodrum,320995,Bodrum, 1537432337.839507
+BLQ,Bologna,https://edinburghairport.s3.amazonaws.com/files/2017/05/a9bc987caa7506a6470ffe22ccdd1445.jpg,bologna,3181928,Bologna, 1537432337.839507
+BOD,Bordeaux,https://edinburghairport.s3.amazonaws.com/files/2017/05/5599a13a76aff3040128db642f5d85d7.jpg,bordeaux,3031582,Bordeaux, 1537432337.839507
+BTS,Bratislava,https://edinburghairport.s3.amazonaws.com/files/2017/05/dd28622a936a268020005fe25e578da2.jpg,bratislava,3060972,Bratislava, 1537432337.839507
+BRS,Bristol,https://edinburghairport.s3.amazonaws.com/files/2017/05/1187428d84865ad48e3c18fa23a73cf3.jpg,bristol,5908999,Bristol, 1537432337.839507
+BUD,Budapest,https://edinburghairport.s3.amazonaws.com/files/2017/05/a115c6982b756dd9cd55bcc2806dbf96.jpg,budapest,3054643,Budapest, 1537432337.839507
+CUN,Cancun,https://edinburghairport.s3.amazonaws.com/files/2017/05/7f2a180b281a9b0066eec1c65f7bebae.jpg,cancun,3531673,Cancun, 1537432337.839507
+CCF,Carcassonne,https://edinburghairport.s3.amazonaws.com/files/2017/06/174caf3696e86f4a58774d226a73fa11.jpg,carcassonne,3028641,Carcassonne, 1537432337.839507
+WL ,Cardiff,https://edinburghairport.s3.amazonaws.com/files/2017/05/7efcce055c1094ddbbd8f8cfaa9265e0.jpg,cardiff,2653822,Cardiff, 1537432337.839507
+CMF,Chambery,https://edinburghairport.s3.amazonaws.com/files/2017/05/32c7ea7ba8f99c2574852dcb153a554f.jpg,chambery,3027422,Chambery, 1537432337.839507
+CGN,Cologne,https://edinburghairport.s3.amazonaws.com/files/2017/06/80efdbff75377b0b0b85072ecd40e301.jpg,cologne,5021807,Cologne, 1537432337.839507
+CPH,Copenhagen,https://edinburghairport.s3.amazonaws.com/files/2017/06/949eeb4f367871bbc5bb37b882d7f9fd.jpg,copenhagen,2618425,Copenhagen, 1537432337.839507
+ORK,Cork,https://edinburghairport.s3.amazonaws.com/files/2017/05/a4fea31bd2cd4d0d1b5c1d289bb47bed.jpg,cork,2965140,Cork, 1537432337.839507
+DLM,Dalaman,https://edinburghairport.s3.amazonaws.com/files/2017/06/70f7b2cbf06919784023261f8e1ba47e.jpg,dalaman,447273,Dalaman, 1537432337.839507
+DOH,Doha,https://edinburghairport.s3.amazonaws.com/files/2017/06/c7d8eebd6c206c000b74cc7c61888881.jpg,doha,290030,Doha, 1537432337.839507
+DXB,Dubai,https://edinburghairport.s3.amazonaws.com/files/2018/05/e53d0c6553195b825900f6329b186252.jpg,dubai,292223,Dubai, 1537432337.839507
+DUB,Dublin,https://edinburghairport.s3.amazonaws.com/files/2017/06/d375e6bc1850977c019fe597df8d553d.jpg,dublin,5187443,Dublin, 1537432337.839507
+DBV,Dubrovnik,https://edinburghairport.s3.amazonaws.com/files/2017/06/5044843355953071ebe80fbf3f50da4e.jpg,dubrovnik,3201047,Dubrovnik, 1537432337.839507
+EIN,Eindhoven,https://edinburghairport.s3.amazonaws.com/files/2017/06/a0c3d4f9240545d03864f2ce24c88f40.jpg,eindhoven,2798895,Eindhoven, 1537432337.839507
+EXT,Exeter,https://edinburghairport.s3.amazonaws.com/files/2017/06/eb58c9d93098d1167e49cb93b67d3df9.jpg,exeter,5347239,Exeter, 1537432337.839507
+FAO,Faro,https://edinburghairport.s3.amazonaws.com/files/2017/06/99d726aafd8442e5cc393fe536c2ed40.jpg,faro,2268339,Faro, 1537432337.839507
+FAE,Faroe Islands,https://edinburghairport.s3.amazonaws.com/files/2017/06/6529e67e4d082fc263b47e0f24be6b59.jpg,faroe islands,2622320,Faroe Islands, 1537432337.839507
+FLR,Florence,https://edinburghairport.s3.amazonaws.com/files/2017/12/c52b9af1f992f63ca92316efba153ab6.jpg,florence,5727032,Florence, 1537432337.839507
+GDN,Gdansk,https://edinburghairport.s3.amazonaws.com/files/2017/06/b030e2346dc3c211d88013cd49a34e84.jpg,gdansk,3099434,Gdansk, 1537432337.839507
+GVA,Geneva,https://edinburghairport.s3.amazonaws.com/files/2017/06/891619ba4a9c007e00eaf9b7a4aedc9a.jpg,geneva,5795348,Geneva, 1537432337.839507
+GNB,Grenoble,https://edinburghairport.s3.amazonaws.com/files/2017/06/a049f3af7357cf9d9c95e11fd9b6d78c.jpg,grenoble,3014728,Grenoble, 1537432337.839507
+HAM,Hamburg,https://edinburghairport.s3.amazonaws.com/files/2017/06/8b5738c0dca749ed65759d23b8e9f49f.jpg,hamburg,5192444,Hamburg, 1537432337.839507
+HEL,Helsinki,https://edinburghairport.s3.amazonaws.com/files/2017/06/77ca9ef463fcc4701531928bfa6684e7.jpg,helsinki,658224,Helsinki, 1537432337.839507
+IBZ,Ibiza,https://edinburghairport.s3.amazonaws.com/files/2017/06/792bb7b0dee3284c0b2a9fa092eab9f6.jpg,ibiza,2516479,Ibiza, 1537432337.839507
+INN,Innsbruck,https://edinburghairport.s3.amazonaws.com/files/2017/06/58dbffc9fea9b8d2aa1421503520ceb9.jpg,innsbruck,2775220,Innsbruck, 1537432337.839507
+IOM,Isle of Man,https://edinburghairport.s3.amazonaws.com/files/2017/06/3c0b3a096723cbe8f5ca3135d4bf1d80.jpg,isle of man,6620382,Isle of Man, 1537432337.839507
+IST,Istanbul,https://edinburghairport.s3.amazonaws.com/files/2017/06/07935ae3dbd8dcac70a15418687129c4.jpg,istanbul,745044,Istanbul, 1537432337.839507
+KTW,Katowice,https://edinburghairport.s3.amazonaws.com/files/2017/06/f7549d55ff2f8149b5febfe9b7a00313.jpg,katowice,3096472,Katowice, 1537432337.839507
+KUN,Kaunas,https://edinburghairport.s3.amazonaws.com/files/2017/06/e7608971528ce5ddca9b3b5b47c5d84c.jpg,kaunas,598316,Kaunas, 1537432337.839507
+EFL,Kefalonia,https://edinburghairport.s3.amazonaws.com/files/2017/06/5ff1af6cd3743839a083637fbf7cfac3.jpg,kefalonia,7290409,Kefalonia, 1537432337.839507
+KOI,Kirkwall,https://edinburghairport.s3.amazonaws.com/files/2017/06/829ce0e02ead64e5943366ad8bcfd737.jpg,kirkwall,2645198,Kirkwall, 1537432337.839507
+KGS,Kos,https://edinburghairport.s3.amazonaws.com/files/2017/06/9981c9d9595257f919decb98f5d5bbea.jpg,kos,259245,Kos, 1537432337.839507
+KRK,Krakow,https://edinburghairport.s3.amazonaws.com/files/2017/06/0b4dee921c2a4c251a67dcb2aec1be6a.jpg,krakow,3094802,Krakow, 1537432337.839507
+LIS,Lisbon,https://edinburghairport.s3.amazonaws.com/files/2017/06/619c8fc6aa6aed32d28c06011911ba38.jpg,lisbon,5160951,Lisbon, 1537432337.839507
+LYS,Lyon,https://edinburghairport.s3.amazonaws.com/files/2017/06/e25d1aed1d7c0dab6e919bf33768af81.jpg,lyon,2996944,Lyon, 1537432337.839507
+FNC,Madeira,https://edinburghairport.s3.amazonaws.com/files/2017/06/f4a4499421c6a43c262f10e82f540fad.jpg,madeira,4517353,Madeira, 1537432337.839507
+MAD,Madrid,https://edinburghairport.s3.amazonaws.com/files/2017/06/b0fcd54eb2a48caad487443766007a28.jpg,madrid,4865871,Madrid, 1537432337.839507
+AGP,Malaga,https://edinburghairport.s3.amazonaws.com/files/2017/06/7b8640d397278d0fd59ee28666163b60.jpg,malaga,1703269,Malaga, 1537432337.839507
+MLA,Malta,https://edinburghairport.s3.amazonaws.com/files/2017/06/c7a8bbfcc39d4129b0191439d54fc31e.jpg,malta,5664486,Malta, 1537432337.839507
+MAN,Manchester,https://edinburghairport.s3.amazonaws.com/files/2017/05/2fc942691a1966a4431bb9bc145bcaae.jpg,manchester,5802247,Manchester, 1537432337.839507
+MRS,Marseille,https://edinburghairport.s3.amazonaws.com/files/2017/06/1b06e35cf4b4af1ef0ede567b926f60b.jpg,marseille,2995469,Marseille, 1537432337.839507
+FMM,Memmingen,https://edinburghairport.s3.amazonaws.com/files/2018/03/ab9855316a76240a3a5810ac18d831e5.jpg,memmingen,2871992,Memmingen, 1537432337.839507
+MJV,Murcia,https://edinburghairport.s3.amazonaws.com/files/2017/06/1bf6eab5fb03424fc4c39d09a2d4e126.jpg,murcia,1699059,Murcia, 1537432337.839507
+NTE,Nantes,https://edinburghairport.s3.amazonaws.com/files/2017/06/e679e68f73e8ce86d88f7ca294b41b55.jpg,nantes,2990969,Nantes, 1537432337.839507
+NAP,Naples,https://edinburghairport.s3.amazonaws.com/files/2017/06/919a68faa49f7b0718d6d80204a81ed8.jpg,naples,5778807,Naples, 1537432337.839507
+NQY,Newquay,https://edinburghairport.s3.amazonaws.com/files/2017/05/9858b369e0681e61af77229fc92104f8.jpg,newquay,2641589,Newquay, 1537432337.839507
+NCE,Nice,https://edinburghairport.s3.amazonaws.com/files/2017/07/ac2f0666a44fb69f5e40b8147eb5d8ba.jpg,nice,5376959,Nice, 1537432337.839507
+WI ,Norwich,https://edinburghairport.s3.amazonaws.com/files/2017/05/5fc2fdc6b97e9e5fb413315a3ea5dcdf.jpg,norwich,5129359,Norwich, 1537432337.839507
+OSL,Oslo,https://edinburghairport.s3.amazonaws.com/files/2017/06/fde0a0ea38e32f2bc627ee6fc826d318.jpg,oslo,3143244,Oslo, 1537432337.839507
+PMI,Palma,https://edinburghairport.s3.amazonaws.com/files/2017/06/5d8b09772cad8ca3305d82d2926a4a83.jpg,palma,3393269,Palma, 1537432337.839507
+PSA,Pisa,https://edinburghairport.s3.amazonaws.com/files/2017/06/bf8a87c001b966fece85099fcc304a85.jpg,pisa,3170647,Pisa, 1537432337.839507
+OPO,Porto,https://edinburghairport.s3.amazonaws.com/files/2017/06/a0b433e751e62723c84b50a33a28554c.jpg,porto,3113104,Porto, 1537432337.839507
+POZ,Poznan,https://edinburghairport.s3.amazonaws.com/files/2017/06/053069432d06f3a076e2978ceb9709ab.jpg,poznan,3088171,Poznan, 1537432337.839507
+PRG,Prague,https://edinburghairport.s3.amazonaws.com/files/2017/06/7394cc659cd6c6f49016bf5959f6d5d1.jpg,prague,4548393,Prague, 1537432337.839507
+PUY,Pula,https://edinburghairport.s3.amazonaws.com/files/2017/06/1070ee8068d22f0b9a5845dc0080aa11.jpg,pula,2523675,Pula, 1537432337.839507
+REU,Reus,https://edinburghairport.s3.amazonaws.com/files/2017/06/e5d9eaa720b068b6bccb3d4bdbffa374.jpg,reus,3111933,Reus, 1537432337.839507
+RHO,Rhodes,https://edinburghairport.s3.amazonaws.com/files/2017/06/4f47ca0c5cc63f9ba18c294ce43120d0.jpg,rhodes,2151682,Rhodes, 1537432337.839507
+SZG,Salzburg,https://edinburghairport.s3.amazonaws.com/files/2017/06/f50d1ae811e3a4a9e2cd505e615eed8c.jpg,salzburg,2842167,Salzburg, 1537432337.839507
+SDR,Santander,https://edinburghairport.s3.amazonaws.com/files/2017/06/b7f507a58ce6255295c22d470813ca0b.jpg,santander,1687965,Santander, 1537432337.839507
+SVQ,Seville,https://edinburghairport.s3.amazonaws.com/files/2018/01/d1ab154f6dae5740d217aa42a796190c.jpg,seville,5171681,Seville, 1537432337.839507
+SNN,Shannon,https://edinburghairport.s3.amazonaws.com/files/2017/06/58b4dc9538e9fc156e433b4a1cf6b10c.jpg,shannon,4445668,Shannon, 1537432337.839507
+SOF,Sofia,https://edinburghairport.s3.amazonaws.com/files/2017/08/e68fecc3de2cee53ec493e334064a2b2.jpg,sofia,727011,Sofia, 1537432337.839507
+SOU,Southampton,https://edinburghairport.s3.amazonaws.com/files/2017/05/2c4cb37b27f55461742e0eb0f46e0e3b.jpg,southampton,5139030,Southampton, 1537432337.839507
+SPU,Split,https://edinburghairport.s3.amazonaws.com/files/2017/06/5b17ed6812f59171245599d203e1ba79.jpg,split,3190261,Split, 1537432337.839507
+SYY,Stornoway,https://edinburghairport.s3.amazonaws.com/files/2017/06/c064f25d3e77ace3925236ca9e56a135.jpg,stornoway,2636790,Stornoway, 1537432337.839507
+STR,Stuttgart,https://edinburghairport.s3.amazonaws.com/files/2017/06/227c254f84a1ad1485e6025a283144bc.jpg,stuttgart,4132625,Stuttgart, 1537432337.839507
+SZZ,Szczecin,https://edinburghairport.s3.amazonaws.com/files/2017/06/da7fe645c79161238c27edd598471153.jpg,szczecin,7531766,Szczecin, 1537432337.839507
+TLL,Tallinn,https://edinburghairport.s3.amazonaws.com/files/2018/03/f71725a5db2956497cd10b7645973a99.jpg,tallinn,588409,Tallinn, 1537432337.839507
+TLV,Tel Aviv,https://edinburghairport.s3.amazonaws.com/files/2018/03/95bf48380d89497eddcab63137e74cca.jpg,tel aviv,293397,Tel Aviv, 1537432337.839507
+SKG,Thessaloniki,https://edinburghairport.s3.amazonaws.com/files/2017/06/23a49d4324c3145a00d491d359eac9f8.jpg,thessaloniki,734077,Thessaloniki, 1537432337.839507
+YYZ,Toronto,https://edinburghairport.s3.amazonaws.com/files/2017/06/f36bcd498d3424a67d58e946d356654a.jpg,toronto,5174095,Toronto, 1537432337.839507
+TLS,Toulouse,https://edinburghairport.s3.amazonaws.com/files/2017/06/093dc99847cb72192f2b991062dc1163.jpg,toulouse,2972315,Toulouse, 1537432337.839507
+VLC,Valencia,https://edinburghairport.s3.amazonaws.com/files/2017/06/7e016943462958402d64518a4fc3639b.jpg,valencia,5496315,Valencia, 1537432337.839507
+VCE,Venice,https://edinburghairport.s3.amazonaws.com/files/2017/06/8ef8b70b875eec0aabb12cc30ae1989f.jpg,venice,4251958,Venice, 1537432337.839507
+VRN,Verona,https://edinburghairport.s3.amazonaws.com/files/2017/06/b527fe931d6d889ae7f91ff60fda6457.jpg,verona,5277142,Verona, 1537432337.839507
+VIE,Vienna,https://edinburghairport.s3.amazonaws.com/files/2017/06/0f3c3481d2ae4fc5ce743f94842b66b5.jpg,vienna,4825976,Vienna, 1537432337.839507
+VGO,Vigo,https://edinburghairport.s3.amazonaws.com/files/2017/06/a42748ab58d54d6b4f9c311a8e6e8649.jpg,vigo,1679964,Vigo, 1537432337.839507
+WIC,Wick,https://edinburghairport.s3.amazonaws.com/files/2017/06/b5b7d63fbe84c3d320b0731860d48ae5.jpg,wick,2633985,Wick, 1537432337.839507
+WRO,Wroclaw,https://edinburghairport.s3.amazonaws.com/files/2017/06/6c38b998d087651530e379308351c06d.jpg,wroclaw,3081368,Wroclaw, 1537432337.839507
+ZRH,Zurich,https://edinburghairport.s3.amazonaws.com/files/2017/06/5891abfaa52d938e2ca8986e67b180d8.jpg,zurich,2657896,Zurich, 1537432337.839507

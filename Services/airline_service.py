@@ -1,4 +1,4 @@
-import re, os, json, csv
+import re, os, json, csv, urllib
 
 from bs4 import BeautifulSoup
 from models.airline import Airline
@@ -75,8 +75,20 @@ class AirlineService(object):
         return None
 
     @staticmethod
-    def save_airline_image_data(models, model_type):
-        # download each URL in list and create directory structure
+    def save_airline_image_data(self):
+        input_folder = os.getcwd() + "\\input\\"
+        image_folder = os.getcwd() + "\\images\\airlines\\"
 
-        return None
-        #print(models)
+        with open(input_folder + "airlines" + ".csv",'r') as csv_input:
+
+            reader = csv.reader(csv_input, delimiter=',')
+
+            next(reader)
+
+            for row in reader:
+                print("Saving image for " + row[1])
+                try:
+                    urllib.request.urlretrieve(row[2], image_folder + row[0] + ".jpg")
+                except:
+                    print("Failed")
+                    continue

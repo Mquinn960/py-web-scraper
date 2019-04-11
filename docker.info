@@ -2,4 +2,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 
-pip install requests BeautifulSoup4
+pip install requests
+pip install BeautifulSoup4
+pip install schedule
+pip install pyowm

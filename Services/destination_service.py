@@ -1,4 +1,4 @@
-import re, os, json, csv
+import re, os, json, csv, urllib, time
 
 from bs4 import BeautifulSoup
 from models.destination import Destination
@@ -71,7 +71,8 @@ class DestinationService(object):
                     img_url,
                     img_name,
                     owm_city_code,
-                    owm_name
+                    owm_name,
+                    time.time()
                 ))
 
             return list(destinations)
@@ -93,8 +94,16 @@ class DestinationService(object):
         return None
 
     @staticmethod
-    def save_destination_image_data(models, model_type):
-        # download each URL in list and create directory structure
+    def save_destination_image_data(self):
+        input_folder = os.getcwd() + "\\input\\"
+        image_folder = os.getcwd() + "\\images\\destinations\\"
 
-        return None
-        #print(models)
+        with open(input_folder + "destinations" + ".csv",'r') as csv_input:
+
+            reader = csv.reader(csv_input, delimiter=',')
+
+            next(reader)
+
+            for row in reader:
+                urllib.request.urlretrieve(row[2], image_folder + row[0] + ".jpg")
+                print("Saving image for " + row[1])

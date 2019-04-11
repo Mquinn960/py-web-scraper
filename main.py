@@ -2,9 +2,9 @@ from services.airline_service import AirlineService
 from services.destination_service import DestinationService
 from scraping.url_scraper import Scraper
 
-base_url = "https://www.edinburghairport.com"
-airlines_url = "/help/contact-us/airline-contacts"
-destinations_url = "/flights/destinations/a-to-z"
+base_url = ""
+airlines_url = ""
+destinations_url = ""
 
 scraper = Scraper
 
@@ -24,7 +24,7 @@ print("Saving destination data \n")
 destination_service.save_destinations_to_csv(destination_service, destination_data)
 
 print("Downloading requested images \n")
-destination_service.save_destination_image_data(destination_service, destination_data)
-airline_service.save_airline_image_data(airline_service, airline_data)
+destination_service.save_destination_image_data(destination_service)
+airline_service.save_airline_image_data(airline_service)
 
 print("Data extraction complete \n")

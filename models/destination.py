@@ -7,6 +7,7 @@ class Destination:
         self.img_name = img_name
         self.owm_city_code = owm_city_code
         self.owm_name = owm_name
+        self.timestamp
 
     airp_iata_code = None
     name = None
@@ -14,3 +15,4 @@ class Destination:
     img_name = None
     owm_city_code = None
     owm_name = None
+    timestamp = None
